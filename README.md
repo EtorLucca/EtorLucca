@@ -1,4 +1,4 @@
-<h1>Olá! Sou o Étor, Desenvolvedor Front-end iniciante</h1>
+<h1>Olá! Sou o Étor, Desenvolvedor Front-end Jr.</h1>
 <div align="center">
   <br>
   <a href="https://github.com/EtorLucca">
