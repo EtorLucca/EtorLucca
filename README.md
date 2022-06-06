@@ -5,7 +5,7 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=EtorLucca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtorLucca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<h2></h2>
+<h2> </h2>
 <br>
 <h2>Linguagens e Tecnologias</h2>
 <div align="center">
